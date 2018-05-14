@@ -1,7 +1,7 @@
 dynamicTimeTable
 ================
 
-This is a simple implementation of Time Table Generation
+This is a simple implementation of Time Table Generation using Genetic Algorithm
 
 Instructions to use this project : 
 
